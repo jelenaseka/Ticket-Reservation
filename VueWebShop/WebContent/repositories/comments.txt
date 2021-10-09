@@ -1,0 +1,5 @@
+ajsi;001;volimo colu;5;ACCEPTED;0
+zdora;001;Pet;5;ACCEPTED;0
+maka;001;Vrh.....;5;ACCEPTED;0
+pera;001;superrrrr;5;DENIED;0
+zena;001;Svidja mi se.;4;ACCEPTED;0
